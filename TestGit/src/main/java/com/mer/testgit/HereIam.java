@@ -10,5 +10,7 @@ package com.mer.testgit;
  * @author Meriam
  */
 public class HereIam {
-    
+    public static void main(String[] args) {
+        
+    }
 }
